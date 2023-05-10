@@ -4,7 +4,7 @@
 header {
   text-align: center
   margin: auto;
-  width: 600px;
+  width: 6000px;
   background-color: #eae2b7;
 
  
@@ -29,7 +29,7 @@ body {
   
 
   margin: auto;
-  width: 600px
+  width: 6000px
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -66,7 +66,7 @@ article {
 
 article div {
   text-align: center;
-  width: 600px;
+  width: 6000px;
 }
 
 p {
@@ -76,7 +76,7 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
-  width: 600px;
+  width: 6000px;
 }
 
 img {
